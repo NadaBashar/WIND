@@ -1,0 +1,15 @@
+{
+"botAppId": "5d092c3ef3ddc70012145cc0",
+"botsJs":"/stylesheets/bots-client-sdk-js/bots.1.12.2.min.js",
+"botsCss": "/stylesheets/bots-client-sdk-js/bots.1.12.2.css",
+"botFrameJs": "/stylesheets/bots-client-sdk-js/frame.1.12.2.min.js",
+"botFrameCss": "/stylesheets/bots-client-sdk-js/frame.1.12.2.css",
+"pluginLogo": "/stylesheets/images/oracle-o-logo.png",
+"pluginIcon": "/stylesheets/images/pluginIcon.png",
+"pluginAvatar": "/stylesheets/images/cibAvatar.png",
+"websiteSdk": "/stylesheets/styles/website-websdk.css",
+"micGif": "/stylesheets/bots-client-sdk-js/mic.gif",
+"micAnimationGif": "/stylesheets/bots-client-sdk-js/mic-animate.gif",
+"autoCompleteLib": "/stylesheets/styles/IP_generalLib.js",
+"notificationAudio" : "/stylesheets/bots-client-sdk-js/a4c1e7e6066665926d65ea3e390f2897.mp3"
+}
